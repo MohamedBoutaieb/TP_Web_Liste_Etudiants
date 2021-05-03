@@ -1,1 +1,1 @@
-copier dans \xampp\mysql\data
+import database
